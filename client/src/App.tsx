@@ -33,19 +33,19 @@ function App() {
                 <p className="text-base font-semibold">Otras aplicaciones</p>
                 <div className="flex gap-6 mt-5">
                   <button className="flex items-center gap-2">
-                    <FontAwesomeIcon className="text-3xl" icon={ faChalkboardUser } />
+                    <FontAwesomeIcon className="text-2xl" icon={ faChalkboardUser } />
                     Aplic. Docente
                   </button>
                   <button className="flex items-center gap-2">
-                    <FontAwesomeIcon className="text-3xl" icon={ faBookOpen } />
+                    <FontAwesomeIcon className="text-2xl" icon={ faBookOpen } />
                     Biblioteca
                   </button>
                   <button className="flex items-center gap-2">
-                    <FontAwesomeIcon className="text-3xl" icon={ faComputer } />
+                    <FontAwesomeIcon className="text-2xl" icon={ faComputer } />
                     Equipo cómputo
                   </button>
                   <button className="flex items-center gap-2">
-                    <FontAwesomeIcon className="text-3xl" icon={ faMap } />
+                    <FontAwesomeIcon className="text-2xl" icon={ faMap } />
                     Mapa campus
                   </button>
                 </div>
